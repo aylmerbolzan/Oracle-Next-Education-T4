@@ -1,0 +1,10 @@
+.cabecalhoPrincipal-titulo {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.cabecalhoPrincipal-nav {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 600px;
+}
